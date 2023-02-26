@@ -1,0 +1,30 @@
+-- create database Football
+-- create  table FootballVenue (
+--  venue_Id int not null ,
+--  venue_name varchar(30) not null,
+--  city_Id int not null ,
+--  capacity int not null 
+-- );
+-- insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20001,"France",10003,42115);
+-- insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20002,"Argentina",42116,100034);
+-- insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20003,"Spain",42123,272726);
+-- insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20004,"Australia",42115,100035);
+-- insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20005,"Rusia",42516,100039);
+--  insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20006,"India",42516,100089);
+-- insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20007,"pakistan",42516,100069);
+--  insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20008,"Irland",42516,100087);
+--  insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20009,"America",42516,100067);
+--  insert into FootballVenue(venue_Id, venue_name,city_Id, capacity)
+--  values( 20010,"Brazil",42516,100099);
+
+-- SELECT * FROM football.footballvenue;
+-- delete from footballvenue  WHERE Location ='Australia';
